@@ -1,0 +1,9 @@
+{
+    "articleId": "001",
+    "boundAccountId": 1,
+    "title": "岛屿君的游戏心得分享",
+    "summary": "岛屿君分享游戏心得...",
+    "articleCover": "https://example.com/article_cover/1.jpg",
+    "publishTime": "2024-01-01 10:00:00",
+    "nextDataSource": "article.md"
+}

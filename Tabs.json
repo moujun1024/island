@@ -1,0 +1,24 @@
+{
+    "dynamicTags": [
+        {
+            "id": 1,
+            "name": "游戏",
+            "isOpen": true
+        },
+        {
+            "id": 2,
+            "name": "科技",
+            "isOpen": true
+        },
+        {
+            "id": 3,
+            "name": "美妆",
+            "isOpen": false
+        },
+        {
+            "id": 4,
+            "name": "穿搭",
+            "isOpen": false
+        }
+    ]
+}
