@@ -4,7 +4,7 @@
             "articleId": "001",
             "title": "岛屿君的游戏心得分享",
             "summary": "岛屿君分享游戏心得...",
-            "articleCover": "https://gitee.com/a-genpug/island/raw/master/resources/official.jpg",
+            "articleCover": "/main/article/001/resources/official.jpg",
             "publishTime": "2024-01-01 10:00:00",
             "nextDataSource": "article.json",
             "category": "游戏区"
@@ -13,7 +13,7 @@
             "articleId": "002",
             "title": "科技区的未来趋势",
             "summary": "探讨科技区未来趋势...",
-            "articleCover": "https://gitee.com/a-genpug/island/raw/master/resources/official.jpg",
+            "articleCover": "/main/article/002/resources/official.jpg",
             "publishTime": "2024-01-03 14:15:00",
             "nextDataSource": "article.json",
             "category": "科技区"
