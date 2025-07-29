@@ -1,0 +1,39 @@
+{
+  "activities": [
+    {
+      "id": "100",
+      "title": "进行中的活动",
+      "status": "ongoing",
+      "cover": "covers/ongoing.jpg",
+      "start_date": "2023-01-01",
+      "end_date": "2023-01-31",
+      "brief": "活动简短描述，用户可见",
+      "detail_link": "articles/1001"
+    },
+    {
+      "id": "100",
+      "title": "未开始的活动",
+      "status": "upcoming",
+      "cover": "covers/upcoming.jpg",
+      "start_date": "2023-02-01",
+      "end_date": "2023-02-28",
+      "brief": "即将开始的活动预告",
+      "detail_link": "articles/1002"
+    },
+    {
+      "id": "100",
+      "title": "已结束的活动",
+      "status": "ended",
+      "cover": "covers/ended.jpg",
+      "start_date": "2022-12-01",
+      "end_date": "2022-12-31",
+      "brief": "已结束活动回顾",
+      "detail_link": "articles/1003"
+    }
+  ],
+  "display_settings": {
+    "show_ended": true,
+    "show_upcoming": true,
+    "max_ended_days": 30
+  }
+}

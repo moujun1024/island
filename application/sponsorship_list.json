@@ -1,0 +1,23 @@
+{
+  "sponsors": [
+    {
+      "name": "赞助者昵称",
+      "type": "个人",
+      "qq": "123456789",
+      "amount": 100,
+      "currency": "CNY",
+      "date": "2023-06-01",
+      "message": "赞助留言"
+    },
+    {
+      "name": "另一个赞助者",
+      "type": "个人",
+      "qq": "987654321",
+      "amount": 50,
+      "currency": "CNY",
+      "date": "2023-05-15",
+      "message": "感谢开发"
+    }
+  ],
+  "last_updated": "2023-06-01"
+}

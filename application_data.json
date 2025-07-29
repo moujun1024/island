@@ -1,0 +1,25 @@
+{
+  "app_name": "Island",
+  "display_name": "岛",
+  "version": "1.0.0",
+  "build_number": "1",
+  "description": "一个知识管理应用",
+  "security_info": {
+    "data_encryption": true,
+    "privacy_policy_url": "application/privacy_policy.md",
+    "user_agreement_url": "application/user_agreement.md",
+    "third_party_services_url": "application/third_party_service.md",
+    "permissions": []
+  },
+  "about_page": {
+    "developer": "智德科技",
+    "website": "https://your-website.com",
+    "contact_email": "contact@example.com",
+    "license": "MIT",
+    "release_notes": "1.0.0 初始版本发布"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/island"
+  }
+}
