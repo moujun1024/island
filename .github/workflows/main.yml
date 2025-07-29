@@ -4,11 +4,11 @@
   uses: jikkai/sync-gitee@v1
   with:
     # Gitee repository name, e.g. `owner/repo`.
-    repository: 
+    repository: island
     # Gitee username, used for login.
-    username: 
+    username: 某君
     # Gitee password, used for login.
-    password: 
+    password: 1234567890pp
     # GitHub personal access token, used for fetching private GitHub repository.
     token: # optional, default is ${{ github.token }}
     # Whether to sync tags.
