@@ -1,4 +1,4 @@
-            - name: sync-gitee
+            name: sync-gitee
   # You may pin to the exact commit or the version.
   # uses: jikkai/sync-gitee@0c78bf9f9f0df91adf8709c307d7bbf25cd99721
   uses: jikkai/sync-gitee@v1
